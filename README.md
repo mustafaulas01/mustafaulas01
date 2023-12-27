@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Mustafa Ulas</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
-<img align="right" alt="Coding" width="400" src="https://mustafaulas.net/Images\gitprofile_2023_12_27_11_30_26.gif">
+<img align="right" alt="Coding" width="400" src="https://mustafaulas.net/Images/gitprofile_2023_12_27_11_30_26.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafaulas01&label=Profile%20views&color=0e75b6&style=flat" alt="mustafaulas01" /> </p>
 
