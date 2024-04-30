@@ -1,7 +1,7 @@
 ![netbanner](https://github.com/mustafaulas01/mustafaulas01/assets/94428632/433b1034-febd-4b85-80ae-b79bae311bbf)
 
 <h1 align="center">Hi 👋, I'm Mustafa Ulas</h1>
-<h3 align="center">A passionate software developer from Turkey</h3>
+<h3 align="center">Senior Software Engineer | .Net Consultant | Instructor</h3>
 
 
 
